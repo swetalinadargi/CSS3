@@ -78,12 +78,12 @@ body{
     text-align: center;
  
 }
-  img {
+  /* img {
     width: 315px;
     height: 250px;
     padding: 1px;
     background-size: cover;
-  }
+  } */
   .box3 {
     width: 320px;
     height: 255px;
@@ -95,6 +95,13 @@ body{
     position: absolute;
     right: 90px;
     top: 210px;
+  
+  
+    background-image: url(./957-9573156_general-store-items-png.png);
+    align-content: center;
+    background-size: cover;
+    /* padding-left: 40px;
+    padding-top: 30px; */
   }
   .box4 {
     border: 6px solid red;
@@ -139,7 +146,7 @@ body{
   .offer {
     width: 520px;
     height: 110px;
-    border-radius: 10%;
+    border-radius: 20px;
     line-height: 75%;
     border: 7px solid red;
     box-shadow: 5px 5px 0px rgb(77, 5, 77);
